@@ -16,5 +16,28 @@ namespace WinFormsApp2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e) //Профиль
+        {
+            Form3 newForm = new Form3();
+            newForm.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e) //Каталог
+        {
+            Form4 newForm = new Form4();
+            newForm.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e) //Корзина
+        {
+            Form5 newForm = new Form5();
+            newForm.Show();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e) //Страница игры
+        {
+
+        }
     }
 }

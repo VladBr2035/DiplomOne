@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Пользователь\\.nuget\\packages\\": {}
+    "C:\\Users\\12\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LaboratoryWork\\VisualLabsWork\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectUniqueName": "C:\\One\\DiplomOne-main\\DiplomOne-main\\WinFormsApp2\\WinFormsApp2.csproj",
       "projectName": "WinFormsApp2",
-      "projectPath": "C:\\LaboratoryWork\\VisualLabsWork\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
-      "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\LaboratoryWork\\VisualLabsWork\\WinFormsApp2\\WinFormsApp2\\obj\\",
+      "projectPath": "C:\\One\\DiplomOne-main\\DiplomOne-main\\WinFormsApp2\\WinFormsApp2.csproj",
+      "packagesPath": "C:\\Users\\12\\.nuget\\packages\\",
+      "outputPath": "C:\\One\\DiplomOne-main\\DiplomOne-main\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\12\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
